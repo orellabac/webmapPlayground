@@ -1,0 +1,30 @@
+{
+  "name": "webmapplayground",
+  "version": "1.0.0",
+  "description": "Creates mock models and comnfigurations for Angular Playground",
+  "main": "index.js",
+  "bin": {
+    "webmapplayground": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orellabac/webmapplayground.git"
+  },
+  "keywords": [
+    "webmap",
+    "angular",
+    "playground"
+  ],
+  "author": "Mauricio Rojas",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^1.1.12"
+  },
+  "bugs": {
+    "url": "https://github.com/orellabac/webmapplayground/issues"
+  },
+  "homepage": "https://github.com/orellabac/webmapplayground#readme"
+}
